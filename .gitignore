@@ -4,7 +4,7 @@ notebooks/*.csv
 notebooks/*.jsonl
 
 out/*
-data/*
+data/**/*.txt
 
 .env
 venv
