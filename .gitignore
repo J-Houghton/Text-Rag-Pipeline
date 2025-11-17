@@ -1,0 +1,11 @@
+legacy/*.csv
+
+notebooks/*.csv
+notebooks/*.jsonl
+
+out/*
+data/*
+
+.env
+venv
+**.ipynb_checkpoints
